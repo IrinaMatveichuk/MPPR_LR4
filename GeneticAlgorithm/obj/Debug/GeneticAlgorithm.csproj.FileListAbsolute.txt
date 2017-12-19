@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\User\source\repos\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\User\source\repos\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\User\source\repos\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+C:\Users\User\source\repos\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form2.resources
+C:\Users\User\source\repos\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+C:\Users\User\source\repos\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\User\source\repos\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
